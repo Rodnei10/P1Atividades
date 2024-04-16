@@ -1,2 +1,4 @@
 nota: 5
 nota2: 8
+
+media: 6.5
