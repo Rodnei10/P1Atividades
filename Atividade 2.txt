@@ -1,2 +1,4 @@
 nota: 9
 nota2 : 9
+
+media: 9

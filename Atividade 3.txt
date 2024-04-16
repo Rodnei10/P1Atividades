@@ -1,2 +1,4 @@
 nota: 6
 nota2: 8
+
+media: 7

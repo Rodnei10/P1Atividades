@@ -1,2 +1,4 @@
 nota: 10
 nota2: 10
+
+media: 10
